@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//src/main/java=UTF-8
+encoding//src/main/java/com/my/springboot/alipay/controller/AlipayController.java=UTF-8
+encoding//src/main/java/com/my/springboot/common/interfaces/UrlRoute.java=UTF-8
+encoding//src/main/java/com/my/springboot/util/MD5Util.java=UTF-8
+encoding//src/main/java/com/my/springboot/util/MyX509TrustManager.java=UTF-8
+encoding//src/main/java/com/my/springboot/util/RequestHandler.java=UTF-8
+encoding//src/main/java/com/my/springboot/util/TenpayUtil.java=UTF-8
+encoding//src/main/java/com/my/springboot/util/WeixinOauth2Token.java=UTF-8
+encoding//src/test/java=UTF-8
+encoding/<project>=UTF-8
