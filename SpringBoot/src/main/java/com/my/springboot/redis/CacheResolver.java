@@ -1,5 +1,5 @@
 /*** Eclipse Class Decompiler plugin, copyright (c) 2016 Chen Chao (cnfree2000@hotmail.com) ***/
-package com.my.springboot.redis.persistence;
+package com.my.springboot.redis;
 
 import java.util.ArrayList;
 import java.util.List;

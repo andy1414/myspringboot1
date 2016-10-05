@@ -34,7 +34,7 @@ import com.my.springboot.alipay.util.AlipayNotify;
 import com.my.springboot.alipay.util.AlipaySubmit;
 import com.my.springboot.common.interfaces.UrlRoute;
 import com.my.springboot.core.ModelView;
-import com.my.springboot.redis.persistence.JedisConnector_Persistence;
+import com.my.springboot.redis.JedisConnector_Persistence;
 
 
 @Controller

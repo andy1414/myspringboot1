@@ -1,7 +1,8 @@
-package com.my.springboot.redis.persistence;
+package com.my.springboot.redis;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.stereotype.Component;
+
 
 //@Data
 @ConfigurationProperties(prefix = "redis",locations="classpath:redis.properties")
